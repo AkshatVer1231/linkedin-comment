@@ -123,8 +123,8 @@ const API_CONFIG = {
      * API endpoint for generating comments
      * This should be updated to your production endpoint
      */
-    URL: 'https://n8n.srv894857.hstgr.cloud/webhook/linkedin-comment',
-    // URL: 'https://n8n.srv894857.hstgr.cloud/webhook-test/linkedin-comment',
+    URL: 'https://surgegrowth1.app.n8n.cloud/webhook/linkedin-comment',
+    // URL: 'https://surgegrowth1.app.n8n.cloud/webhook/linkedin-comment',
     
     /**
      * Maximum number of retries for API calls
